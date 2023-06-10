@@ -2,7 +2,7 @@
 
 self.__uv$config = {
   prefix: "/uv/service/",
-  bare: "/proxy/https://mathissocoolwow.herokuapp.com/bare/",
+  bare: "/proxy/https://tiw.tiwweb.workers.dev/",
   encodeUrl: Ultraviolet.codec.xor.encode,
   decodeUrl: Ultraviolet.codec.xor.decode,
   handler: "/uv/uv.handler.js",
